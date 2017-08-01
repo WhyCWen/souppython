@@ -48,6 +48,8 @@ def spades_high(card):
 def wash_cards():
     pass
 
+
+
 if __name__ == '__main__':
     deck = FrenchDeck()
     print len(deck),deck[1]
